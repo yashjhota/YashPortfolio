@@ -17,12 +17,12 @@ const contactMethods = [
   {
     icon: <Mail className="text-primary text-xl" />,
     title: "Email",
-    description: "yash@example.com",
+    description: "jhotayash@icloud.com",
   },
   {
     icon: <MapPin className="text-primary text-xl" />,
     title: "Location",
-    description: "San Francisco, CA",
+    description: "Bangalore,India",
   },
   {
     icon: <Clock className="text-primary text-xl" />,
@@ -32,9 +32,9 @@ const contactMethods = [
 ];
 
 const socialLinks = [
-  { icon: <Linkedin className="text-xl" />, href: "https://linkedin.com", label: "LinkedIn" },
-  { icon: <Github className="text-xl" />, href: "https://github.com", label: "GitHub" },
-  { icon: <Twitter className="text-xl" />, href: "https://twitter.com", label: "Twitter" },
+  { icon: <Linkedin className="text-xl" />, href: "https://www.linkedin.com/in/yashjhota/", label: "LinkedIn" },
+  { icon: <Github className="text-xl" />, href: "https://github.com/yashjhota", label: "GitHub" },
+  { icon: <Twitter className="text-xl" />, href: "https://twitter.com/yashjhota", label: "Twitter" },
   { icon: <Rss className="text-xl" />, href: "#", label: "Blog" },
 ];
 

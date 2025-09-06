@@ -29,10 +29,10 @@ export function Footer() {
             transition={{ duration: 0.5 }}
           >
             <h3 className="text-xl font-bold text-primary mb-2" data-testid="footer-name">
-              Yash
+              Yash Jain
             </h3>
             <p className="text-muted-foreground" data-testid="footer-tagline">
-              Backend Engineer | AI & ML Enthusiast
+              Backend Engineer | AI & ML Enthusiast | Researcher
             </p>
           </motion.div>
 
@@ -63,7 +63,7 @@ export function Footer() {
             className="text-center md:text-right"
           >
             <p className="text-muted-foreground" data-testid="footer-copyright">
-              © 2024 Yash. All rights reserved.
+              © 2025 Yash. All rights reserved.
             </p>
           </motion.div>
         </div>
