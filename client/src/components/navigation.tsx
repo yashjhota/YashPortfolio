@@ -9,6 +9,7 @@ const navigationItems = [
   { href: "#about", label: "About" },
   { href: "#projects", label: "Projects" },
   { href: "#experience", label: "Experience" },
+  { href: "#resume", label: "Resume" },
   { href: "#contact", label: "Contact" },
 ];
 
@@ -76,7 +77,7 @@ export function Navigation() {
             className="flex-shrink-0"
           >
             <span className="text-xl font-bold text-primary" data-testid="logo">
-              Yash
+              Yash Jain - Portfolio ❤️
             </span>
           </motion.div>
 
