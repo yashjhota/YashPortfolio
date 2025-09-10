@@ -15,7 +15,7 @@ const skills = [
   { name: "Backend Development", percentage: 95, color: "bg-primary" },
   { name: "AI/ML & Data Science", percentage: 88, color: "bg-purple-500" },
   { name: "Cloud & DevOps", percentage: 82, color: "bg-green-500" },
-  { name: "System Architecture", percentage: 90, color: "bg-blue-500" },
+  { name: "Deep Learning & GEN-AI", percentage: 90, color: "bg-blue-500" },
 ];
 
 export function AboutSection() {
